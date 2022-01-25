@@ -81,3 +81,62 @@ Untracked files:
 
 
 Answer 6:
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   README.md
+        new file:   answers.md
+
+
+Answer 7:
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   answers.md
+
+
+Answer 8:
+commit 3dbadf021a395fd3219d1534fa5416f86643feac (HEAD -> master)
+Author: gb612421 <gb612421@ohio.edu>
+Date:   Tue Jan 25 17:17:11 2022 -0500
+
+    Sup
+
+
+Answer 9:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Answer 10:
+No
+
+Answer 11:
+To https://github.com/gb612421/git-lab.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/gb612421/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Answer 12:
+Yes
+
+
+Answer 13:
+.  ..  .git  .gitignore  README.md
